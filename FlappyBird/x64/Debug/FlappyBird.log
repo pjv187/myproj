@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\FlappyBird\FlappyBird\CommonFunc.h(50,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+D:\FlappyBird\FlappyBird\CommonFunc.h(62,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+D:\FlappyBird\FlappyBird\main.cpp(27,33): warning C4566: character represented by universal-character-name '\u0168' cannot be represented in the current code page (1252)
+D:\FlappyBird\FlappyBird\main.cpp(192,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  FlappyBird.vcxproj -> D:\FlappyBird\x64\Debug\FlappyBird.exe
